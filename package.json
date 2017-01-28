@@ -1,0 +1,18 @@
+{
+  "name": "new-node-notify",
+  "version": "1.0.0",
+  "description": "Notifies when a new version of Node.js is released (via Pushbullet for now)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Knight <oss.ideas@gmail.com> (http://blakek.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.14.0"
+  },
+  "devDependencies": {
+    "standard": "^8.3.0"
+  }
+}
